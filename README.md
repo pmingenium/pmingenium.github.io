@@ -1,4 +1,11 @@
-pmingenium.github.io
+PM Ingenium Corp
 ====================
 
-PM Ingenium Corp Website
+PM Ingenium Corp inital website.
+
+Todo:
+
+- Design and develop a full feature website
+- Services page
+- About page
+- Contact page
